@@ -1,0 +1,15 @@
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Neptune
+Uranus
+Pluto
+Ultima Thule
+Sun
+Moon
+Titan
+Europa
+Phobos

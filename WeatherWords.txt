@@ -1,0 +1,10 @@
+rain
+snow
+sleet
+hail
+sunshine
+clouds
+storm
+thunder
+lightning
+front
